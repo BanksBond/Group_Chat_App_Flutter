@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "832661458561",
+    "project_id": "my-group-chat-9f69b",
+    "storage_bucket": "my-group-chat-9f69b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832661458561:android:b791ebed0e335c10338780",
+        "android_client_info": {
+          "package_name": "com.BanksBond.my_group_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832661458561-90sts9b61oh6oice4c75opeubb45kb96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT2DU_yAA6HN3i3gd5qu4f6wUzKnceFH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832661458561-90sts9b61oh6oice4c75opeubb45kb96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
